@@ -11,14 +11,23 @@ This repository hosts everything from CAD designs to ROS2 simulation environment
 
 Repository Structure
 📦 Neetram
+
  ┣ 📁 CAD Designs        # Drone CAD files (SolidWorks/ANSYS)
+ 
  ┣ 📁 Simulations # Structural & aerodynamic simulations
+ 
  ┣ 📁 ROS2_Code         # ROS2 nodes for navigation, control, sensors
+ 
  ┣ 📁 Gazebo_Worlds     # Gazebo simulation environments
+ 
  ┣ 📁 UAV_Algorithms    # Path planning, obstacle avoidance, swarm logic
+ 
  ┣ 📁 Real-Time-Drone   #The parts of the drone which are being/already built
+ 
  ┣ 📁 Antenna_Designs   # Custom antenna CAD + testing data
+ 
  ┣ 📁 Docs              # Reports, diagrams, presentations
+ 
  ┗ README.md            # You are here 🚀
 
 🛠️ Tech Stack
