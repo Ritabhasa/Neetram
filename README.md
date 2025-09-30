@@ -130,26 +130,27 @@ Antenna(In progress)
 ![d254aaba-9140-4178-a9ef-ec0109d70a65](https://github.com/user-attachments/assets/6a6ea1f8-dd78-41b9-a11a-ab8b9fc5d6e2)
 
 
-📌 MVP (Minimum Viable Product): Link to MVP Demo/Docs
-📱 Mobile/Web App for Command & Control: [Link](https://neetram.onhercules.app/)
+📌 MVP (Minimum Viable Product): [MVP]()
+📱 Mobile/Web App for Command & Control: [App](https://neetram.onhercules.app/)
 
 👩‍🚀 Team Neetram
 
-Name	                      Role       	      Focus Area
+Name	             -         Role       	 -     Focus Area
 
-Deep Batyabal	          Project Lead        UAV Systems
+Deep Batyabal	     -     Project Lead    -    UAV Systems
 
-Ritabhasa Chowdhury	   Software Engineer	   ROS2 Integration
+Ritabhasa Chowdhury	 -   Software Engineer	-   ROS2 Integration
 
-Sagnik Chakraborty    Simulation Engineer	  ANSYS, CAD
+Sagnik Chakraborty  -  Simulation Engineer	-  ANSYS, CAD
 
-Prasunita De	         Controls Engineer	    Flight Algorithms
+Prasunita De	   -      Controls Engineer	-    Flight Algorithms
 
-Aditi Rai	              AI/ML Engineer	     Vision & Detection
+Aditi Rai	       -       AI/ML Engineer	  -   Vision & Detection
 
-Sagnik Adhikary	      Hardware Engineer	   Sensors, Antenna & Payloads
+Sagnik Adhikary	 -     Hardware Engineer	-   Sensors, Antenna & Payloads
 
 🌟 Impact
+
 By combining cutting-edge drone technology with custom communication systems and self-defense mechanisms, Neetrum aims to:
 
 Reduce response time in disasters
