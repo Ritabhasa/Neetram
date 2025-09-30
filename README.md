@@ -30,7 +30,7 @@ Repository Structure
  
  ┣ 📁 Antenna_Designs   # Custom antenna CAD + testing data
  
- ┣ 📁 Docs              # Reports, diagrams, presentations
+ ┣ 📁 ML_Model_Results  # YOLO and OpenCV outcomes
  
  ┗ README.md            # You are here 🚀
 
