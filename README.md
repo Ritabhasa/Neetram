@@ -129,6 +129,10 @@ Antenna(In progress)
 
 ![d254aaba-9140-4178-a9ef-ec0109d70a65](https://github.com/user-attachments/assets/6a6ea1f8-dd78-41b9-a11a-ab8b9fc5d6e2)
 
+Ground Station View
+
+![fb0db4fb-a4b2-4d98-b15e-09548827703f](https://github.com/user-attachments/assets/36d0dcf9-dd9a-4427-9d9c-b23f293dc86c)
+
 
 📌 MVP (Minimum Viable Product): [MVP]()
 📱 Mobile/Web App for Command & Control: [App](https://neetram.onhercules.app/)
